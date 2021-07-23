@@ -1,0 +1,25 @@
+HTML5
+JavaScript
+
+CSS 3 (Optional)
+Bootstrap (Optional)
+
+Angular CLI
+------------------------------------------
+ng new projectname
+
+ng server -port 8000 -o 
+
+ng build -------  tranpell and package angular app into dist folder
+
+ng g component componentname --skipTests
+ng g service servicename --skipTests
+ng g module modulename --skipTests
+ng g pipe pipename --skipTests
+ng g directive directivename --skipTests
+ng g guard guardname --skipTests
+ng g interceptor interceptorname --skipTests
+ng g class classname --skipTests
+ng g interface interfacename
+
+ng test  ---  used to execute all our test cases
